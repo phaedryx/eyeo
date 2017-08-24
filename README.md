@@ -1,2 +1,2 @@
-# eyeo
-Reserving my seat for the next fork
+# Eyeo.js
+Reserving my seat now for the eventual fork
